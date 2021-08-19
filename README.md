@@ -2,4 +2,4 @@
 Some random Text
 
 ## This is a Subheading
-Some Text
+Some Texts
